@@ -1,4 +1,5 @@
 # Calculator
+Recently, I have been intrigued by Vue.js as a framework (some may say it’s a library — choose your camp) and decided to get a stronger sense of it by building a simple calculator app.
 
 ## Project setup
 ```
