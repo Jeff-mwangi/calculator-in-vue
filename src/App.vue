@@ -5,13 +5,11 @@
 
 <script>
 import Calculator from './components/calculator.vue'
-import Header from './components/Header.vue'
 
 export default {
   name: 'App',
   components: {
     Calculator,
-    Header,
   }
 }
 
